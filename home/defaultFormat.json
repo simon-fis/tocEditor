@@ -1,0 +1,13 @@
+{
+  "fParts" : [ {
+    "part" : 0,
+    "startEntry" : 0,
+    "fPageNumber" : "roman",
+    "fLevels" : [ {
+      "level" : 0,
+      "pattern" : "",
+      "fPageNumber" : "roman"
+    } ]
+  } ],
+  "allowedTitles" : "[A-Za-zöäüÖÄÜ ,]+"
+}
