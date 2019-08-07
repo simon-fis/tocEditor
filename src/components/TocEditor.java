@@ -585,6 +585,7 @@ public class TocEditor extends JFrame
 
 					try
 					{
+						document.setAllSecurityToBeRemoved(true); // to remove encryption dictionaries
 						document.save(outFile);
 						res = JOptionPane.NO_OPTION;
 					} catch (IOException e1)
